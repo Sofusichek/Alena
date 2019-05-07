@@ -11,3 +11,12 @@ button.show( );
  
 return app.exec( );
 }
+123656
+\\hjkk
+<<<<<<< HEAD
+ikjmlkmhjmbn,k
+gyjkuhik
+dxgftcyh
+=======
+ikjmlkmhjmbn,k
+>>>>>>> aeea740... 123
